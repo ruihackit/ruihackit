@@ -1,5 +1,7 @@
 # Rui Hackit
 
+エンジニア系Vtuber
+
 ## Links
 - [GitHub](https://github.com/ruihackit): 開発したプロダクトなど
 - [X](https://x.com/ruihackit): いろいろつぶやくところ
