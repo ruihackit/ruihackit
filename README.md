@@ -9,7 +9,7 @@
 - [YouTube](https://www.youtube.com/@ruihackit): 配信とアーカイブ置き場
 
 ## Contact
-- ruihackit[at]gmail.com (at -> @)
+- ruihackit[at]gmail.com ([at] -> @)
 
 <!--
 **ruihackit/ruihackit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
