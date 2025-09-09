@@ -8,6 +8,9 @@
 - [Twitch](https://www.twitch.tv/ruihackit): 主な配信場所
 - [YouTube](https://www.youtube.com/@ruihackit): 配信とアーカイブ置き場
 
+## Contact
+- ruihackit[at]gmail.com
+
 <!--
 **ruihackit/ruihackit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
