@@ -1,10 +1,10 @@
 # Rui Hackit
 
-## Links⛓
-- [X](https://x.com/ruihackit)
-- [GitHub](https://github.com/ruihackit)
-- [Twitch](https://www.twitch.tv/ruihackit)
-- [YouTube](https://www.youtube.com/@ruihackit)
+## Links
+- [GitHub](https://github.com/ruihackit): 開発したプロダクトなど
+- [X](https://x.com/ruihackit): つぶやくところ
+- [Twitch](https://www.twitch.tv/ruihackit): 主な配信場所
+- [YouTube](https://www.youtube.com/@ruihackit): 配信とアーカイブ置き場
 
 <!--
 **ruihackit/ruihackit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
