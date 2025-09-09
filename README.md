@@ -10,6 +10,7 @@
 
 ## Contact
 - ruihackit[at]gmail.com ([at] -> @)
+- [X](https://x.com/ruihackit) の DM でもご連絡いただけます
 
 <!--
 **ruihackit/ruihackit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
