@@ -1,5 +1,10 @@
 # Rui Hackit
-## Hi there 👋
+
+## Links⛓
+- [X](https://x.com/ruihackit)
+- [GitHub](https://github.com/ruihackit)
+- [Twitch](https://www.twitch.tv/ruihackit)
+- [YouTube](https://www.youtube.com/@ruihackit)
 
 <!--
 **ruihackit/ruihackit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
