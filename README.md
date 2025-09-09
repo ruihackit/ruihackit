@@ -2,7 +2,7 @@
 
 ## Links
 - [GitHub](https://github.com/ruihackit): 開発したプロダクトなど
-- [X](https://x.com/ruihackit): つぶやくところ
+- [X](https://x.com/ruihackit): いろいろつぶやくところ
 - [Twitch](https://www.twitch.tv/ruihackit): 主な配信場所
 - [YouTube](https://www.youtube.com/@ruihackit): 配信とアーカイブ置き場
 
