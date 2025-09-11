@@ -51,13 +51,13 @@
 
 <h2>Stats</h2>
 
-<h3>Public Repositories Only</h3>
+<h3>&lt; Public Repositories Only &gt;</h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green&hide_border=true"  />
   <img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix&no-frame=true" />
 
-<h3>Including Private Repositories</h3>
+<h3>&lt; Including Private Repositories &gt;</h3>
 
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
