@@ -1,56 +1,38 @@
 <div align="center">
     
-<p>
-    <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&reversal=false&fontColor=00A806&stroke=000000&strokeWidth=2&text=Rui%20Hackit"/></a>
-</p>
-<p>
-    <a href="#"><img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" /></a>
-</p>
-<p>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806"></a>
-</p>
+<p><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&reversal=false&fontColor=00A806&stroke=000000&strokeWidth=2&text=Rui%20Hackit"/></a></p>
+<p><a href="#"><img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" /></a></p>
+<p><a href="#"><img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806"></a></p>
 
 <h2>Links</h2>
 
-<p>
-    <a href="https://x.com/ruihackit">
-        ↓ いろいろつぶやくところ ↓<br />
-        <img src="https://img.shields.io/badge/@ruihackit-000000?style=flat&logo=x&logoColor=white" />
-    </a>
-</p>
-<p>
-    <a href="https://www.twitch.tv/ruihackit">
-        ↓ 配信場所① ↓<br />
-        <img src="https://img.shields.io/badge/ruihackit-9146ff?style=flat&logo=twitch&logoColor=white" />
-    </a>
-</p>
-<p>
-    <a href="https://www.youtube.com/@ruihackit">
-        ↓ 配信場所② / アーカイブ置き場 ↓<br />
-        <img src="https://img.shields.io/badge/@ruihackit-ff0000?style=flat&logo=youtube&logoColor=white" />
-    </a>
-</p>
-<p>
-    <a href="https://github.com/ruihackit">
-        ↓ 開発したプロダクトなど ↓<br />
-        <img src="https://img.shields.io/badge/ruihackit-181717?style=flat&logo=github&logoColor=white" />
-    </a>
-</p>
+<p><a href="https://x.com/ruihackit">
+    ↓ いろいろつぶやくところ ↓<br />
+    <img src="https://img.shields.io/badge/@ruihackit-000000?style=flat&logo=x&logoColor=white" />
+</a></p>
+<p><a href="https://www.twitch.tv/ruihackit">
+    ↓ 配信場所① ↓<br />
+    <img src="https://img.shields.io/badge/ruihackit-9146ff?style=flat&logo=twitch&logoColor=white" />
+</a></p>
+<p><a href="https://www.youtube.com/@ruihackit">
+    ↓ 配信場所② / アーカイブ置き場 ↓<br />
+    <img src="https://img.shields.io/badge/@ruihackit-ff0000?style=flat&logo=youtube&logoColor=white" />
+</a></p>
+<p><a href="https://github.com/ruihackit">
+    ↓ 開発したプロダクトなど ↓<br />
+    <img src="https://img.shields.io/badge/ruihackit-181717?style=flat&logo=github&logoColor=white" />
+</a></p>
 
 <h2>Contact</h2>
 
-<p>
-    <a href="mailto:ruihackit@gmail.com">
-        ↓ お仕事・ご依頼等のご連絡はこちらまで ↓<br />
-        <img src="https://img.shields.io/badge/ruihackit@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" />
-    </a>
-</p>
-<p>
-    <a href="https://x.com/ruihackit">
-        ↓ X の DM でもご連絡いただけます ↓<br />
-        <img src="https://img.shields.io/badge/@ruihackit-000000?style=flat&logo=x&logoColor=white" />
-    </a>
-</p>
+<p><a href="mailto:ruihackit@gmail.com">
+    ↓ お仕事・ご依頼等のご連絡はこちらまで ↓<br />
+    <img src="https://img.shields.io/badge/ruihackit@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" />
+</a></p>
+<p><a href="https://x.com/ruihackit">
+    ↓ X の DM でもご連絡いただけます ↓<br />
+    <img src="https://img.shields.io/badge/@ruihackit-000000?style=flat&logo=x&logoColor=white" />
+</a></p>
 
 <h2>Stats</h2>
 
