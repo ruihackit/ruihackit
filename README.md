@@ -12,39 +12,39 @@
 <h2>Links</h2>
     <p>
         <a href="https://x.com/ruihackit">
-            <p>↓ いろいろつぶやくところ ↓</p>
+            ↓ いろいろつぶやくところ ↓<br />
             <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ruihackit">
         </a>
     </p>
     <p>
         <a href="https://www.twitch.tv/ruihackit">
-            <p>↓ 主な配信場所 ↓</p>
+            ↓ 主な配信場所 ↓<br />
             <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ruihackit">
         </a>
     </p>
     <p>
         <a href="https://www.youtube.com/@ruihackit">
-            <p>↓ 配信とアーカイブ置き場 ↓</p>
+            ↓ 配信とアーカイブ置き場 ↓<br />
             <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCyBg3tmJB-Gw8vVoBRJjS7A">
         </a>
     </p>
     <p>
         <a href="https://github.com/ruihackit">
-            <p>↓ 開発したプロダクトなど ↓</p>
+            ↓ 開発したプロダクトなど ↓<br />
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruihackit">
         </a>
     </p>
 
 <h2>Contact</h2>
     <p>
-        <a href="<mailto:ruihackit@gmail.com>">
-            <p>↓ お仕事・ご依頼等のご連絡はこちらまで ↓</p>
+        <a href="mailto:ruihackit@gmail.com">
+            ↓ お仕事・ご依頼等のご連絡はこちらまで ↓<br />
             <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
         </a>
     </p>
     <p>
         <a href="https://x.com/ruihackit">
-            <p>↓ X の DM でもご連絡いただけます ↓</p>
+            ↓ X の DM でもご連絡いただけます ↓<br />
             <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ruihackit">
         </a>
     </p>
