@@ -19,6 +19,16 @@
 - [![X](https://img.shields.io/badge/X-%234d4d4d.svg?logo=X&logoColor=white)](https://x.com/ruihackit) の DM でもご連絡いただけます
 
 ## Stats
+
+### Only Public
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix" />
+</div>
+
+### Including Private
 <div align="center">
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
