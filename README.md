@@ -58,19 +58,19 @@
 <h3>Public Repositories Only</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green&hide_border=true" style="border: 1px solid #ffffff;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green&hide_border=true"  style="border: 1px solid #ffffff;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix&no-frame=true" style="border: 1px solid #ffffff;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green&hide_border=true"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix&no-frame=true" />
 </div>
 
 <h3>Including Private Repositories</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" style="border: 1px solid #ffffff;" />
-  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" style="border: 1px solid #ffffff;" />
-  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" style="border: 1px solid #ffffff;" />
-  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" style="border: 1px solid #ffffff;" />
-  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" style="border: 1px solid #ffffff;" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" />
 </div>
 
 <h2>Tech Stack</h2>
