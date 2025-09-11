@@ -1,20 +1,18 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806"/>
-</div>
-
-<div align=center>
-<img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" />
+<p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806"/>
+</p>
+<p>
+    <img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" />
+</p>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806">
+</p>
 </div>
 
 <h2>Links</h2>
 
 <div align=center>
-    <p>
-        <a href="https://github.com/ruihackit">
-            <p>↓ 開発したプロダクトなど ↓</p>
-            <img src="https://img.shields.io/badge/GitHub-%234d4d4d.svg?logo=github&logoColor=white" />
-        </a>
-    </p>
     <p>
         <a href="https://x.com/ruihackit">
             <p>↓ いろいろつぶやくところ ↓</p>
@@ -31,6 +29,12 @@
         <a href="https://www.youtube.com/@ruihackit">
             <p>↓ 配信とアーカイブ置き場 ↓</p>
             <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+        </a>
+    </p>
+    <p>
+        <a href="https://github.com/ruihackit">
+            <p>↓ 開発したプロダクトなど ↓</p>
+            <img src="https://img.shields.io/badge/GitHub-%234d4d4d.svg?logo=github&logoColor=white" />
         </a>
     </p>
 </div>
