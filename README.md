@@ -1,6 +1,8 @@
-# Rui Hackit
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00A806&lines=Welcome+to+Rui+Hackit's+profile+page)](https://git.io/typing-svg)
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?color=00A806&repeat=false&width=450&lines=-+Welcome+to+Rui+Hackit's+profile+page+-" alt="Typing SVG" /></a>
+</div>
 
 ## Links
 
