@@ -1,13 +1,13 @@
 <div align="center">
     
 <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806"/>
+    <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&reversal=false&fontColor=00A806&stroke=000000&strokeWidth=2&text=Rui%20Hackit"/></a>
 </p>
 <p>
-    <img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" />
+    <a href="#"><img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" /></a>
 </p>
 <p>
-    <img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806">
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806"></a>
 </p>
 
 <h2>Links</h2>
@@ -56,18 +56,18 @@
 
 <h3>&lt; Public Repositories Only &gt;</h3>
 
-<img src="https://streak-stats.demolab.com/?user=ruihackit&theme=ads-juicy-fresh&hide_total_contributions=true" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green"  />
-<img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix" />
+<a href="#"><img src="https://streak-stats.demolab.com/?user=ruihackit&theme=ads-juicy-fresh&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green"  /></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix" /></a>
 
 <h3>&lt; Including Private Repositories &gt;</h3>
 
-<img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" />
+<a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" /></a>
 
 <h2>Tech Stack</h2>
 
