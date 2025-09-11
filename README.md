@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
 <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806"/>
 </p>
@@ -8,11 +8,8 @@
 <p>
     <img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806">
 </p>
-</div>
 
 <h2>Links</h2>
-
-<div align=center>
     <p>
         <a href="https://x.com/ruihackit">
             <p>↓ いろいろつぶやくところ ↓</p>
@@ -37,12 +34,8 @@
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruihackit">
         </a>
     </p>
-</div>
-
 
 <h2>Contact</h2>
-
-<div align=center>
     <p>
         <a href="<mailto:ruihackit@gmail.com>">
             <p>↓ お仕事・ご依頼等のご連絡はこちらまで ↓</p>
@@ -55,27 +48,22 @@
             <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ruihackit">
         </a>
     </p>
-</div>
 
 <h2>Stats</h2>
 
 <h3>Public Repositories Only</h3>
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green&hide_border=true"  />
   <img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix&no-frame=true" />
-</div>
 
 <h3>Including Private Repositories</h3>
 
-<div align="center">
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" />
-</div>
 
 <h2>Tech Stack</h2>
 
