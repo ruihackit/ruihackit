@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-<img src="https://readme-typing-svg.demolab.com/?color=00A806&repeat=false&lines=-+Welcome+to+my+profile+page+-" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+page+-" alt="Typing SVG" />
 </div>
 
 ## Links
