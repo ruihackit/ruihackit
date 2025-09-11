@@ -3,10 +3,29 @@
 </div>
 
 <div align=center>
-<img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+page+-" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" />
 </div>
 
 ## Links
+
+<div align=center>
+  <a href="https://github.com/ruihackit">
+    - 開発したプロダクトなど -
+    <img src="https://img.shields.io/badge/GitHub-%234d4d4d.svg?logo=github&logoColor=white" />
+  </a><br />
+  <a href="https://x.com/ruihackit">
+    - いろいろつぶやくところ -
+    <img src="https://img.shields.io/badge/X-%234d4d4d.svg?logo=X&logoColor=white" />
+  </a><br />
+  <a href="https://www.twitch.tv/ruihackit">
+    主な配信場所:<br />
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" />
+  </a><br />
+  <a href="https://www.youtube.com/@ruihackit">
+    配信とアーカイブ置き場:<br />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>
+</div>
 
 - [![GitHub](https://img.shields.io/badge/GitHub-%234d4d4d.svg?logo=github&logoColor=white)](https://github.com/ruihackit) <-- 開発したプロダクトなど
 - [![X](https://img.shields.io/badge/X-%234d4d4d.svg?logo=X&logoColor=white)](https://x.com/ruihackit) <-- いろいろつぶやくところ
@@ -20,7 +39,7 @@
 
 ## Stats
 
-### Only Public
+### Public Repositories Only
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green&hide_border=true" />
@@ -28,7 +47,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix" />
 </div>
 
-### Including Private
+### Including Private Repositories
 <div align="center">
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
@@ -37,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" />
 </div>
 
-## My Skill Set
+## Tech Stack
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,css,discordjs,django,docker,fastapi,flask,git,github,gradle,html,java,js,kotlin,latex,linux,md,neovim,nextjs,nodejs,npm,opencv,powershell,py,pytorch,r,react,sklearn,svelte,tailwind,tailwind,tensorflow,ts,ubuntu,unity,vim" />
