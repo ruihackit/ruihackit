@@ -1,4 +1,5 @@
 <div align="center">
+    
 <p>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806"/>
 </p>
@@ -67,6 +68,13 @@
 
 <h2>Tech Stack</h2>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,bash,css,discordjs,django,docker,fastapi,flask,git,github,gradle,html,java,js,kotlin,latex,linux,md,neovim,nextjs,nodejs,npm,opencv,powershell,py,pytorch,r,react,sklearn,svelte,tailwind,tailwind,tensorflow,ts,ubuntu,unity,vim" />
+<h3>Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=py,r,java,kotlin,js,ts,html,css,md,latex,bash,powershell" />
+
+<h3>Frameworks / Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,django,flask,fastapi,nodejs,npm,discordjs,pytorch,tensorflow,sklearn,opencv,unity" />
+
+<h3>DevOps / Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gradle,linux,ubuntu,anaconda,vim,neovim" />
+
 </div>
