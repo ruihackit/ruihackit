@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806)
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&text=Rui%20Hackit&reversal=false&fontColor=00A806"/>
+</div>
 
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?color=00A806&repeat=false&width=450&lines=-+Welcome+to+Rui+Hackit's+profile+page+-" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com/?color=00A806&repeat=false&width=450&lines=-+Welcome+to+Rui+Hackit's+profile+page+-" alt="Typing SVG" />
 </div>
 
 ## Links
@@ -17,11 +19,16 @@
 - [![X](https://img.shields.io/badge/X-%234d4d4d.svg?logo=X&logoColor=white)](https://x.com/ruihackit) の DM でもご連絡いただけます
 
 ## Stats
-
-[![](https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" />
+</div>
 
 ## My Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,css,discordjs,django,docker,fastapi,flask,git,github,gradle,html,java,js,kotlin,latex,linux,md,neovim,nextjs,nodejs,npm,opencv,powershell,py,pytorch,r,react,sklearn,svelte,tailwind,tailwind,tensorflow,ts,ubuntu,unity,vim)](https://skillicons.dev)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,bash,css,discordjs,django,docker,fastapi,flask,git,github,gradle,html,java,js,kotlin,latex,linux,md,neovim,nextjs,nodejs,npm,opencv,powershell,py,pytorch,r,react,sklearn,svelte,tailwind,tailwind,tensorflow,ts,ubuntu,unity,vim" />
+</div>
