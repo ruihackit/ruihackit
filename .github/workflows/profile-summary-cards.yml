@@ -15,42 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      # GitHub Profile Summary Cards を生成
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-
-      # Python をセットアップ
-      - uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-
-      # 枠線追加スクリプトを作成
-      - name: create add_border.py
-        run: |
-          echo 'import glob
-          
-          for file in glob.glob("profile-summary-card-output/blue_green/*.svg"):
-              with open(file, "r", encoding="utf-8") as f:
-                  svg = f.read()
-              # <svg ...> の直後に rect を挿入
-              svg = svg.replace("<svg", "<svg>\n<rect x=\"0\" y=\"0\" width=\"100%\" height=\"100%\" fill=\"none\" stroke=\"white\" stroke-width=\"1\"/>", 1)
-              with open(file, "w", encoding="utf-8") as f:
-                  f.write(svg)
-          ' > add_border.py
-
-      # 枠線を追加
-      - name: add white border to SVG
-        run: python3 add_border.py
-
-      # 変更をコミット＆プッシュ（オプション）
-      - name: commit and push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/blue_green/*.svg
-          git commit -m "Add white border to profile summary cards"
-          git push
