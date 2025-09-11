@@ -16,25 +16,25 @@
     <p>
         <a href="https://x.com/ruihackit">
             <p>↓ いろいろつぶやくところ ↓</p>
-            <img src="https://img.shields.io/badge/X-%234d4d4d.svg?logo=X&logoColor=white" />
+            <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ruihackit">
         </a>
     </p>
     <p>
         <a href="https://www.twitch.tv/ruihackit">
             <p>↓ 主な配信場所 ↓</p>
-            <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" />
+            <img alt="Twitch Status" src="https://img.shields.io/twitch/status/ruihackit">
         </a>
     </p>
     <p>
         <a href="https://www.youtube.com/@ruihackit">
             <p>↓ 配信とアーカイブ置き場 ↓</p>
-            <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+            <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCyBg3tmJB-Gw8vVoBRJjS7A">
         </a>
     </p>
     <p>
         <a href="https://github.com/ruihackit">
             <p>↓ 開発したプロダクトなど ↓</p>
-            <img src="https://img.shields.io/badge/GitHub-%234d4d4d.svg?logo=github&logoColor=white" />
+            <img alt="GitHub followers" src="https://img.shields.io/github/followers/ruihackit">
         </a>
     </p>
 </div>
@@ -45,14 +45,14 @@
 <div align=center>
     <p>
         <a href="<mailto:ruihackit@gmail.com>">
-            <p>↓ 依頼等のご連絡はこちらまで ↓</p>
+            <p>↓ お仕事・ご依頼等のご連絡はこちらまで ↓</p>
             <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
         </a>
     </p>
     <p>
         <a href="https://x.com/ruihackit">
             <p>↓ X の DM でもご連絡いただけます ↓</p>
-            <img src="https://img.shields.io/badge/X-%234d4d4d.svg?logo=X&logoColor=white" />
+            <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ruihackit">
         </a>
     </p>
 </div>
