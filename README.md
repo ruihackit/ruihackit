@@ -36,14 +36,14 @@
 
 <h2>&lt; Stats &gt;</h2>
 
-<h3>Public Repositories Only</h3>
+<h3>- Public Repositories Only -</h3>
 
 <a href="#"><img src="https://streak-stats.demolab.com/?user=ruihackit&theme=ads-juicy-fresh&hide_total_contributions=true" alt="GitHub Streak" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green"  /></a>
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix" /></a>
 
-<h3>Including Private Repositories</h3>
+<h3>- Including Private Repositories -</h3>
 
 <a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" /></a>
