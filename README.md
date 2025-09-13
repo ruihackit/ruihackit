@@ -4,7 +4,7 @@
 <p><a href="#"><img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" /></a></p>
 <p><a href="#"><img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806"></a></p>
 
-<h2>Links</h2>
+<h2>&lt; Links &gt;</h2>
 
 <p><a href="https://x.com/ruihackit">
     ↓ いろいろつぶやくところ ↓<br />
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/ruihackit-181717?style=flat&logo=github&logoColor=white" />
 </a></p>
 
-<h2>Contact</h2>
+<h2>&lt; Contact &gt;</h2>
 
 <p><a href="mailto:ruihackit@gmail.com">
     ↓ お仕事・ご依頼等のご連絡はこちらまで ↓<br />
@@ -34,16 +34,16 @@
     <img src="https://img.shields.io/badge/@ruihackit-000000?style=flat&logo=x&logoColor=white" />
 </a></p>
 
-<h2>Stats</h2>
+<h2>&lt; Stats &gt;</h2>
 
-<h3>&lt; Public Repositories Only &gt;</h3>
+<h3>Public Repositories Only</h3>
 
 <a href="#"><img src="https://streak-stats.demolab.com/?user=ruihackit&theme=ads-juicy-fresh&hide_total_contributions=true" alt="GitHub Streak" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ruihackit&show_icons=true&theme=blue-green" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruihackit&layout=compact&theme=blue-green"  /></a>
 <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ruihackit&theme=matrix" /></a>
 
-<h3>&lt; Including Private Repositories &gt;</h3>
+<h3>Including Private Repositories</h3>
 
 <a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/0-profile-details.svg" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg" /></a>
@@ -51,7 +51,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/3-stats.svg" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/ruihackit/ruihackit/main/profile-summary-card-output/blue_green/4-productive-time.svg" /></a>
 
-<h2>Tech Stack</h2>
+<h2>&lt; Tech Stack &gt;</h2>
 
 <h3>Programming Languages</h3>
 
