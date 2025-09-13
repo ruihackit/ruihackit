@@ -10,13 +10,13 @@
     ↓ いろいろつぶやくところ ↓<br />
     <img src="https://img.shields.io/badge/@ruihackit-000000?style=flat&logo=x&logoColor=white" />
 </a></p>
-<p><a href="https://www.youtube.com/@ruihackit">
-    ↓ 配信場所(1) / アーカイブ置き場 ↓<br />
-    <img src="https://img.shields.io/badge/@ruihackit-ff0000?style=flat&logo=youtube&logoColor=white" />
-</a></p>
 <p><a href="https://www.twitch.tv/ruihackit">
-    ↓ 配信場所(2) ↓<br />
+    ↓ 配信場所(1) ↓<br />
     <img src="https://img.shields.io/badge/ruihackit-9146ff?style=flat&logo=twitch&logoColor=white" />
+</a></p>
+<p><a href="https://www.youtube.com/@ruihackit">
+    ↓ 配信場所(2) / アーカイブ置き場 ↓<br />
+    <img src="https://img.shields.io/badge/@ruihackit-ff0000?style=flat&logo=youtube&logoColor=white" />
 </a></p>
 <p><a href="https://github.com/ruihackit">
     ↓ 開発したプロダクトなど ↓<br />
