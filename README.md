@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 <p><a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=a1a1a1&reversal=false&fontColor=00A806&stroke=000000&strokeWidth=2&text=Rui%20Hackit"/></a></p>
 <p><a href="#"><img src="https://readme-typing-svg.demolab.com/?color=00A806&center=true&repeat=false&lines=-+Welcome+to+my+profile+-" alt="Typing SVG" /></a></p>
 <p><a href="#"><img src="https://komarev.com/ghpvc/?username=ruihackit&color=00A806"></a></p>
