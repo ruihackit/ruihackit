@@ -26,7 +26,7 @@
 <h2>&lt; Contact &gt;</h2>
 
 <p><a href="mailto:ruihackit@gmail.com">
-    ↓ お仕事・ご依頼等のご連絡はこちらまで ↓<br />
+    ↓ ご連絡はこちらまで ↓<br />
     <img src="https://img.shields.io/badge/ruihackit@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" />
 </a></p>
 <p><a href="https://x.com/ruihackit">
