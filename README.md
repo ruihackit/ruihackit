@@ -68,6 +68,7 @@
 
 <h3>Frameworks / Libraries</h3>
 
+<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat&logo=svelte&logoColor=white" /></a>
