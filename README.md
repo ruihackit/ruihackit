@@ -63,6 +63,7 @@
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" /></a>
 
